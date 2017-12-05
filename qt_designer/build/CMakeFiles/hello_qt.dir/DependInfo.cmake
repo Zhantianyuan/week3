@@ -4,9 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.cpp" "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj"
   "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/mocs_compilation.cpp" "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj"
   "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/main.cpp" "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/CMakeFiles/hello_qt.dir/main.cpp.obj"
   "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.cpp" "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/CMakeFiles/hello_qt.dir/mainwindow.cpp.obj"
+  "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.cpp" "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/CMakeFiles/hello_qt.dir/stockitem.cpp.obj"
+  "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.cpp" "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

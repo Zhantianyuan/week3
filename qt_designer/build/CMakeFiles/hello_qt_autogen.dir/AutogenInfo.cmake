@@ -7,8 +7,8 @@ set(AM_CMAKE_CURRENT_SOURCE_DIR "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_
 set(AM_CMAKE_CURRENT_BINARY_DIR "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/")
 set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
 set(AM_BUILD_DIR "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen")
-set(AM_SOURCES "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/main.cpp;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.cpp")
-set(AM_HEADERS "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.h")
+set(AM_SOURCES "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.cpp;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/main.cpp;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.cpp;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.cpp;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.cpp")
+set(AM_HEADERS "D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.h;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.h;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h;D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.h")
 # Qt environment
 set(AM_QT_VERSION_MAJOR "5")
 set(AM_QT_VERSION_MINOR "9")

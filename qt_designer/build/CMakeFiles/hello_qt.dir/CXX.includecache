@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+C:/Qt/5.9.2/mingw53_32/include/QtCore/QAbstractListModel
+qabstractitemmodel.h
+C:/Qt/5.9.2/mingw53_32/include/QtCore/qabstractitemmodel.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtCore/QString
+qstring.h
+C:/Qt/5.9.2/mingw53_32/include/QtCore/qstring.h
+
 C:/Qt/5.9.2/mingw53_32/include/QtCore/QVariant
 qvariant.h
 C:/Qt/5.9.2/mingw53_32/include/QtCore/qvariant.h
@@ -934,6 +942,14 @@ QtGui/qcolor.h
 QtGui/qbrush.h
 -
 
+C:/Qt/5.9.2/mingw53_32/include/QtGui/qpen.h
+QtGui/qtguiglobal.h
+-
+QtGui/qcolor.h
+-
+QtGui/qbrush.h
+-
+
 C:/Qt/5.9.2/mingw53_32/include/QtGui/qpixelformat.h
 QtGui/qtguiglobal.h
 -
@@ -988,6 +1004,46 @@ C:/Qt/5.9.2/mingw53_32/include/QtGui/qrgba64.h
 QtGui/qtguiglobal.h
 -
 QtCore/qprocessordetection.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtGui/qtextcursor.h
+QtGui/qtguiglobal.h
+-
+QtCore/qstring.h
+-
+QtCore/qshareddata.h
+-
+QtGui/qtextformat.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtGui/qtextformat.h
+QtGui/qtguiglobal.h
+-
+QtGui/qcolor.h
+-
+QtGui/qfont.h
+-
+QtCore/qshareddata.h
+-
+QtCore/qvector.h
+-
+QtCore/qvariant.h
+-
+QtGui/qpen.h
+-
+QtGui/qbrush.h
+-
+QtGui/qtextoption.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtGui/qtextoption.h
+QtGui/qtguiglobal.h
+-
+QtCore/qnamespace.h
+-
+QtCore/qchar.h
+-
+QtCore/qmetatype.h
 -
 
 C:/Qt/5.9.2/mingw53_32/include/QtGui/qtgui-config.h
@@ -1072,6 +1128,26 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QButtonGroup
 qbuttongroup.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qbuttongroup.h
 
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QCheckBox
+qcheckbox.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qcheckbox.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QDialog
+qdialog.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qdialog.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QDialogButtonBox
+qdialogbuttonbox.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qdialogbuttonbox.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QDoubleSpinBox
+qspinbox.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qspinbox.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QFrame
+qframe.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qframe.h
+
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QHBoxLayout
 qboxlayout.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qboxlayout.h
@@ -1079,6 +1155,14 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qboxlayout.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QHeaderView
 qheaderview.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qheaderview.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QLabel
+qlabel.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlabel.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QLineEdit
+qlineedit.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlineedit.h
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QListView
 qlistview.h
@@ -1088,9 +1172,17 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QMainWindow
 qmainwindow.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qmainwindow.h
 
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QMenu
+qmenu.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qmenu.h
+
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QMenuBar
 qmenubar.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qmenubar.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QMessageBox
+qmessagebox.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qmessagebox.h
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QPushButton
 qpushbutton.h
@@ -1099,6 +1191,10 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qpushbutton.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QSpacerItem
 qlayoutitem.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlayoutitem.h
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QSpinBox
+qspinbox.h
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qspinbox.h
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QStatusBar
 qstatusbar.h
@@ -1115,10 +1211,6 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qboxlayout.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QWidget
 qwidget.h
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qwidget.h
-
-C:/Qt/5.9.2/mingw53_32/include/QtWidgets/QmessageBox
-qmessagebox.h
-C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qmessagebox.h
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qabstractbutton.h
 QtWidgets/qtwidgetsglobal.h
@@ -1226,6 +1318,12 @@ QtWidgets/qtwidgetsglobal.h
 QtCore/qobject.h
 -
 
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qcheckbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qdesktopwidget.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1233,6 +1331,12 @@ QtWidgets/qwidget.h
 -
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qdialog.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qdialogbuttonbox.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qwidget.h
@@ -1258,6 +1362,12 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qheaderview.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qabstractitemview.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlabel.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
 -
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlayout.h
@@ -1288,6 +1398,18 @@ QtWidgets/qsizepolicy.h
 QtCore/qrect.h
 -
 limits.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlineedit.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+QtGui/qtextcursor.h
+-
+QtCore/qstring.h
+-
+QtCore/qmargins.h
 -
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qlistview.h
@@ -1352,6 +1474,12 @@ C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qslider.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qabstractslider.h
+-
+
+C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qspinbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractspinbox.h
 -
 
 C:/Qt/5.9.2/mingw53_32/include/QtWidgets/qstatusbar.h
@@ -1468,6 +1596,14 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/EWIEGA46WW/moc_edititemdialog.cpp
+../../../edititemdialog.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/EWIEGA46WW/moc_mainwindow.cpp
 ../../../mainwindow.h
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.h
@@ -1476,9 +1612,33 @@ QtCore/qbytearray.h
 QtCore/qmetatype.h
 -
 
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/EWIEGA46WW/moc_stockitemlistmodel.cpp
+../../../stockitemlistmodel.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/mocs_compilation.cpp
+EWIEGA46WW/moc_edititemdialog.cpp
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/EWIEGA46WW/moc_edititemdialog.cpp
 EWIEGA46WW/moc_mainwindow.cpp
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/EWIEGA46WW/moc_mainwindow.cpp
+EWIEGA46WW/moc_stockitemlistmodel.cpp
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/build/hello_qt_autogen/EWIEGA46WW/moc_stockitemlistmodel.cpp
+
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.cpp
+edititemdialog.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.h
+ui_edititemdialog.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/ui_edititemdialog.h
+
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.h
+QDialog
+-
+stockitem.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h
 
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/main.cpp
 mainwindow.h
@@ -1491,11 +1651,73 @@ mainwindow.h
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.h
 ui_mainwindow.h
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/ui_mainwindow.h
-QmessageBox
-D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/QmessageBox
+stockitem.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h
+edititemdialog.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/edititemdialog.h
+QMessageBox
+-
 
 D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/mainwindow.h
 QMainWindow
+-
+stockitemlistmodel.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.h
+
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.cpp
+stockitem.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h
+
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h
+QString
+-
+stockitem.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h
+
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.cpp
+stockitemlistmodel.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.h
+
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitemlistmodel.h
+QAbstractListModel
+-
+stockitem.h
+D:/zty/nottingham/normal/year2/H62PEP/week3/qt_designer/stockitem.h
+
+hello_qt_autogen/include/ui_edititemdialog.h
+QtCore/QVariant
+-
+QtWidgets/QAction
+-
+QtWidgets/QApplication
+-
+QtWidgets/QButtonGroup
+-
+QtWidgets/QCheckBox
+-
+QtWidgets/QDialog
+-
+QtWidgets/QDialogButtonBox
+-
+QtWidgets/QDoubleSpinBox
+-
+QtWidgets/QFrame
+-
+QtWidgets/QHBoxLayout
+-
+QtWidgets/QHeaderView
+-
+QtWidgets/QLabel
+-
+QtWidgets/QLineEdit
+-
+QtWidgets/QSpacerItem
+-
+QtWidgets/QSpinBox
+-
+QtWidgets/QVBoxLayout
+-
+QtWidgets/QWidget
 -
 
 hello_qt_autogen/include/ui_mainwindow.h
@@ -1514,6 +1736,8 @@ QtWidgets/QHeaderView
 QtWidgets/QListView
 -
 QtWidgets/QMainWindow
+-
+QtWidgets/QMenu
 -
 QtWidgets/QMenuBar
 -

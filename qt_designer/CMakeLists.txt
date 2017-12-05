@@ -27,7 +27,15 @@ message( STATUS "Qt5Widgets Libraries: ${Qt5Widgets_LIBRARIES}" )
 add_executable( hello_qt WIN32
                 main.cpp mainwindow.cpp
                 mainwindow.h
-                mainwindow.ui )
+                mainwindow.ui
+		edititemdialog.h
+		edititemdialog.cpp
+		edititemdialog.ui
+		stockitem.cpp
+		stockitem.h
+		stockitemlistmodel.cpp
+		stockitemlistmodel.h
+ )
 
 # Tell CMake that the executable depends on the Qt::Widget libraries.
 target_link_libraries( hello_qt Qt5::Widgets )

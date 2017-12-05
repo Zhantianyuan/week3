@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include "stockitemlistmodel.h"
 
 namespace Ui {
 class MainWindow;
@@ -16,6 +17,8 @@ signals:
 
 public slots:
      void handleAddButton();
+     void handleEditButton();
+     void handleRemoveButton();
 
 
 public:
@@ -25,7 +28,7 @@ public:
 
 private:
 	Ui::MainWindow * ui;
-
+	StockItemListModel stockList;
 
 
 };

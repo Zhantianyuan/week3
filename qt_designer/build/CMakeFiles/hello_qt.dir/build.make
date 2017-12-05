@@ -106,10 +106,85 @@ CMakeFiles/hello_qt.dir/mainwindow.cpp.obj.provides: CMakeFiles/hello_qt.dir/mai
 CMakeFiles/hello_qt.dir/mainwindow.cpp.obj.provides.build: CMakeFiles/hello_qt.dir/mainwindow.cpp.obj
 
 
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: ../edititemdialog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_qt.dir\edititemdialog.cpp.obj -c D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\edititemdialog.cpp
+
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_qt.dir/edititemdialog.cpp.i"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\edititemdialog.cpp > CMakeFiles\hello_qt.dir\edititemdialog.cpp.i
+
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_qt.dir/edititemdialog.cpp.s"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\edititemdialog.cpp -o CMakeFiles\hello_qt.dir\edititemdialog.cpp.s
+
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.requires:
+
+.PHONY : CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.requires
+
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.provides: CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.provides.build
+.PHONY : CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.provides
+
+CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.provides.build: CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj
+
+
+CMakeFiles/hello_qt.dir/stockitem.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
+CMakeFiles/hello_qt.dir/stockitem.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
+CMakeFiles/hello_qt.dir/stockitem.cpp.obj: ../stockitem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hello_qt.dir/stockitem.cpp.obj"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_qt.dir\stockitem.cpp.obj -c D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\stockitem.cpp
+
+CMakeFiles/hello_qt.dir/stockitem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_qt.dir/stockitem.cpp.i"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\stockitem.cpp > CMakeFiles\hello_qt.dir\stockitem.cpp.i
+
+CMakeFiles/hello_qt.dir/stockitem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_qt.dir/stockitem.cpp.s"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\stockitem.cpp -o CMakeFiles\hello_qt.dir\stockitem.cpp.s
+
+CMakeFiles/hello_qt.dir/stockitem.cpp.obj.requires:
+
+.PHONY : CMakeFiles/hello_qt.dir/stockitem.cpp.obj.requires
+
+CMakeFiles/hello_qt.dir/stockitem.cpp.obj.provides: CMakeFiles/hello_qt.dir/stockitem.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitem.cpp.obj.provides.build
+.PHONY : CMakeFiles/hello_qt.dir/stockitem.cpp.obj.provides
+
+CMakeFiles/hello_qt.dir/stockitem.cpp.obj.provides.build: CMakeFiles/hello_qt.dir/stockitem.cpp.obj
+
+
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: ../stockitemlistmodel.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_qt.dir\stockitemlistmodel.cpp.obj -c D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\stockitemlistmodel.cpp
+
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.i"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\stockitemlistmodel.cpp > CMakeFiles\hello_qt.dir\stockitemlistmodel.cpp.i
+
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.s"
+	C:\Qt\Tools\mingw530_32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\stockitemlistmodel.cpp -o CMakeFiles\hello_qt.dir\stockitemlistmodel.cpp.s
+
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.requires:
+
+.PHONY : CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.requires
+
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.provides: CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.provides.build
+.PHONY : CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.provides
+
+CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.provides.build: CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj
+
+
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: hello_qt_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj"
 	C:\Qt\Tools\mingw530_32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello_qt.dir\hello_qt_autogen\mocs_compilation.cpp.obj -c D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\hello_qt_autogen\mocs_compilation.cpp
 
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.i: cmake_force
@@ -135,6 +210,9 @@ CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj.provides.build
 hello_qt_OBJECTS = \
 "CMakeFiles/hello_qt.dir/main.cpp.obj" \
 "CMakeFiles/hello_qt.dir/mainwindow.cpp.obj" \
+"CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj" \
+"CMakeFiles/hello_qt.dir/stockitem.cpp.obj" \
+"CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj" \
 "CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj"
 
 # External object files for target hello_qt
@@ -142,6 +220,9 @@ hello_qt_EXTERNAL_OBJECTS =
 
 hello_qt.exe: CMakeFiles/hello_qt.dir/main.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/mainwindow.cpp.obj
+hello_qt.exe: CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj
+hello_qt.exe: CMakeFiles/hello_qt.dir/stockitem.cpp.obj
+hello_qt.exe: CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/build.make
 hello_qt.exe: C:/Qt/5.9.2/mingw53_32/lib/libQt5Widgets.a
@@ -151,7 +232,7 @@ hello_qt.exe: C:/Qt/5.9.2/mingw53_32/lib/libqtmain.a
 hello_qt.exe: CMakeFiles/hello_qt.dir/linklibs.rsp
 hello_qt.exe: CMakeFiles/hello_qt.dir/objects1.rsp
 hello_qt.exe: CMakeFiles/hello_qt.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable hello_qt.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\zty\nottingham\normal\year2\H62PEP\week3\qt_designer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable hello_qt.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\hello_qt.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -161,6 +242,9 @@ CMakeFiles/hello_qt.dir/build: hello_qt.exe
 
 CMakeFiles/hello_qt.dir/requires: CMakeFiles/hello_qt.dir/main.cpp.obj.requires
 CMakeFiles/hello_qt.dir/requires: CMakeFiles/hello_qt.dir/mainwindow.cpp.obj.requires
+CMakeFiles/hello_qt.dir/requires: CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj.requires
+CMakeFiles/hello_qt.dir/requires: CMakeFiles/hello_qt.dir/stockitem.cpp.obj.requires
+CMakeFiles/hello_qt.dir/requires: CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.requires
 CMakeFiles/hello_qt.dir/requires: CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj.requires
 
 .PHONY : CMakeFiles/hello_qt.dir/requires
