@@ -1,0 +1,4 @@
+D:/zty/nottingham/normal/year2/H62PEP/week3/hello_qt_cm/build/CMakeFiles/hello_qt.dir
+D:/zty/nottingham/normal/year2/H62PEP/week3/hello_qt_cm/build/CMakeFiles/edit_cache.dir
+D:/zty/nottingham/normal/year2/H62PEP/week3/hello_qt_cm/build/CMakeFiles/rebuild_cache.dir
+D:/zty/nottingham/normal/year2/H62PEP/week3/hello_qt_cm/build/CMakeFiles/hello_qt_autogen.dir
